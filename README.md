@@ -1,4 +1,4 @@
-# About Me 😮‍💨
+# 😮‍💨 About Me:
 
 - 🏫 I’m currently studying at NIT Allahabad  
 - 🔎 Always exploring new tech
