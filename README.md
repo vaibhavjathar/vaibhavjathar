@@ -39,7 +39,7 @@
 ---
 
 ## GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavjathar&showicons=true&theme=radical)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavjathar&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavjathar&layout=compact&theme=radical)
 
