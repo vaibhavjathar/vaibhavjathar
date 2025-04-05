@@ -40,8 +40,8 @@
 
 ## GitHub Stats:
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavjathar&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true)
+[![Language Analysis](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavjathar&layout=donut&langs_count=10&hide=html,css&card_width=800)](https://github.com/vaibhavjathar)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavjathar&layout=compact&theme=radical)
 
 ---
 ## 🔍 My Tech Stack Analysis
